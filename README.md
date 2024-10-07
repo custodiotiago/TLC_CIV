@@ -42,5 +42,7 @@ Contributions are welcome! Feel free to fork the repository and submit pull requ
 
 This project is licensed under the [MIT License](LICENSE).
 
+### Author
+Tiago Luis Custódio
 
 
