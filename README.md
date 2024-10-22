@@ -1,7 +1,6 @@
 ## TLC CIV
 TLC CIV is a game inspired by the Civilization style, where players explore and colonize a randomly generated map. The game allows movement of units, such as settlers, on a grid of land and water, alongside turn advancement and tracking of the in-game year.
-![image](https://github.com/user-attachments/assets/de753b94-2a79-42bd-a241-12671a0f152e)
-
+![image](https://github.com/user-attachments/assets/199cfd53-654c-4a91-b69f-2ac36f5a104a)
 
 ### Features
 
